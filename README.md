@@ -11,7 +11,7 @@
 # Instalar dependências do projeto
 composer install
 
-
+```
 
 ## Configuração - Frontend
 ``` bash
