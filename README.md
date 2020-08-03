@@ -4,9 +4,18 @@
 
 > Base de Configuração Inicial Laravel com Vue JS
 
-```
-## Configuração - Backend
 
+``` bash
+# Clonar
+git clone https://github.com/RoneFB/laravel_vue.git
+
+# Acessar
+cd laravel_vue
+
+```
+
+
+## Configuração - Backend
 ``` bash
 # Instalar dependências do projeto
 composer install
@@ -18,4 +27,6 @@ composer install
 # Atualizar dependências
 npm install
 
+# Executar 
+npm run serve
 ```
