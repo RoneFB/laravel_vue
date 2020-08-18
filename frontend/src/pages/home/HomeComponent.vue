@@ -1,19 +1,14 @@
 <template>
-
-    
-    <div class="login">
-        <div class="info">
-           <h1>Título</h1>
-            <p>Home da nossa página</p>
-        </div>
-     
-    </div>
+   <DashboardComponent />
     
 </template>
 
 <script>
+import DashboardComponent from '../dashboard/DashboardComponent';
 export default{
-
+    components:{
+        DashboardComponent,
+    }
 }
 </script>
 
